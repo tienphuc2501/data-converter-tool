@@ -1,0 +1,112 @@
+{
+  "columns": [
+    {
+      "name": "account",
+      "defaultValue": "",
+      "index": 1
+    },
+    {
+      "name": "state",
+      "defaultValue": "",
+      "index": 2
+    },
+    {
+      "name": "product_code",
+      "defaultValue": "",
+      "index": 3
+    },
+    {
+      "name": "mvr_code",
+      "defaultValue": "",
+      "index": 4
+    },
+    {
+      "name": "soundexing",
+      "defaultValue": "",
+      "index": 5
+    },
+    {
+      "name": "amplified",
+      "defaultValue": "",
+      "index": 6
+    },
+    {
+      "name": "century_indicator",
+      "defaultValue": "",
+      "index": 7
+    },
+    {
+      "name": "search_period",
+      "defaultValue": "",
+      "index": 8
+    },
+    {
+      "name": "forced_dmv",
+      "defaultValue": "",
+      "index": 9
+    },
+    {
+      "name": "driver_hist_age_override",
+      "defaultValue": "",
+      "index": 10
+    },
+
+
+
+    {
+      "name": "quoteback",
+      "defaultValue": "",
+      "index": 11
+    },
+    {
+      "name": "dln",
+      "defaultValue": "",
+      "index": 12
+    },
+    {
+      "name": "last_name",
+      "defaultValue": "",
+      "index": 13
+    },
+    {
+      "name": "first_name",
+      "defaultValue": "",
+      "index": 14
+    },
+    {
+      "name": "middle_name",
+      "defaultValue": "",
+      "index": 15
+    },
+    {
+      "name": "suffix",
+      "defaultValue": "",
+      "index": 16
+    },
+    {
+      "name": "dob",
+      "defaultValue": "",
+      "index": 17
+    },
+    {
+      "name": "gender",
+      "defaultValue": "",
+      "index": 18
+    },
+    {
+      "name": "dob",
+      "defaultValue": "",
+      "index": 17
+    },
+    {
+      "name": "ssn",
+      "defaultValue": "",
+      "index": 18
+    },
+    {
+      "name": "extended_qb",
+      "defaultValue": "",
+      "index": 19
+    }
+  ]
+}
